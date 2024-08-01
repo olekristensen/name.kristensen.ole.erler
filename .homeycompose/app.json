@@ -1,5 +1,5 @@
 {
-  "id": "name.kristensen.ole.erler",
+  "id": "name.kristensen.ole.erler-zigbee",
   "version": "0.0.1",
   "compatibility": ">=5.0.0",
   "platforms": [
@@ -25,10 +25,10 @@
     "homey:wireless:zigbee"
   ],
   "homeyCommunityTopicId": 26439,
-  "source": "https://github.com/olekristensen/name.kristensen.ole.erler",
+  "source": "https://github.com/olekristensen/name.kristensen.ole.erler-zigbee",
   "support": "mailto:ole@kristensen.name",
   "bugs": {
-    "url": "https://github.com/olekristensen/name.kristensen.ole.erler/issues"
+    "url": "https://github.com/olekristensen/name.kristensen.ole.erler-zigbee/issues"
   },
   "images": {
     "large": "/assets/images/large.png",
