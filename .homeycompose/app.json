@@ -1,0 +1,49 @@
+{
+  "id": "name.kristensen.ole.erler",
+  "version": "0.0.1",
+  "compatibility": ">=5.0.0",
+  "platforms": [
+    "local"
+  ],
+  "sdk": 3,
+  "name": {
+    "en": "Magnus Erler Zigbee Devices"
+  },
+  "description": {
+    "en": "Receive events from Magnus Erler Zigbee devices"
+  },
+  "tags": {
+    "en": [
+      "Magnus Erler"
+      ]
+  },
+  "category": [
+    "lights"
+  ],
+  "brandColor": "#666666",
+  "permissions": [
+    "homey:wireless:zigbee"
+  ],
+  "homeyCommunityTopicId": 26439,
+  "source": "https://github.com/olekristensen/name.kristensen.ole.erler",
+  "support": "mailto:ole@kristensen.name",
+  "bugs": {
+    "url": "https://github.com/olekristensen/name.kristensen.ole.erler/issues"
+  },
+  "images": {
+    "large": "/assets/images/large.png",
+    "small": "/assets/images/small.png"
+  },
+  "author": {
+    "name": "Ole Kristensen",
+    "email": "ole@kristensen.name"
+  },
+  "contributors": {
+    "developers": [
+      {
+        "name": "Ole Kristensen",
+        "email": "ole@kristensen.name"
+      }
+    ]
+  }
+}
